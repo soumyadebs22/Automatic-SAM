@@ -1,3 +1,4 @@
 # Automatic-SAM
-here we try to automate the segment anything model
+![Alt text](SURGE_Poster_image.jpg)
+
 
